@@ -1,0 +1,123 @@
+fileFormatVersion: 2
+guid: 146f34aee938eca438fbb9374edadec6
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: balustrada
+    100002: exterior
+    100004: //RootNode
+    100006: interior
+    100008: interior_002
+    100010: lemn_balustrada
+    100012: podea
+    100014: podea_etaj
+    100016: scari
+    100018: skirting
+    100020: sticla_balustrada
+    400000: balustrada
+    400002: exterior
+    400004: //RootNode
+    400006: interior
+    400008: interior_002
+    400010: lemn_balustrada
+    400012: podea
+    400014: podea_etaj
+    400016: scari
+    400018: skirting
+    400020: sticla_balustrada
+    2300000: balustrada
+    2300002: exterior
+    2300004: interior
+    2300006: interior_002
+    2300008: lemn_balustrada
+    2300010: podea
+    2300012: podea_etaj
+    2300014: scari
+    2300016: skirting
+    2300018: sticla_balustrada
+    3300000: balustrada
+    3300002: exterior
+    3300004: interior
+    3300006: interior_002
+    3300008: lemn_balustrada
+    3300010: podea
+    3300012: podea_etaj
+    3300014: scari
+    3300016: skirting
+    3300018: sticla_balustrada
+    4300000: podea_etaj
+    4300002: skirting
+    4300004: podea
+    4300006: interior_002
+    4300008: sticla_balustrada
+    4300010: lemn_balustrada
+    4300012: balustrada
+    4300014: scari
+    4300016: interior
+    4300018: exterior
+    6400000: balustrada
+    6400002: exterior
+    6400004: interior
+    6400006: interior_002
+    6400008: lemn_balustrada
+    6400010: podea
+    6400012: podea_etaj
+    6400014: scari
+    6400016: skirting
+    6400018: sticla_balustrada
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
